@@ -6,5 +6,8 @@ https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
 
 ## Results
 #### Actual Sarcastic Headlines
-- "City Enters Phase 4 Of Pretending Coronavirus Over" Prediction: Sarcastic 
+- Prediction: Sarcastic 
+  - "City Enters Phase 4 Of Pretending Coronavirus Over" 
+- Prediction: Sarcastic 
+  - "City Enters Phase 4 Of Pretending Coronavirus Over" 
 #### Actual Non Sarcastic Headlines
