@@ -1,5 +1,5 @@
-# sarcasm_detection
+# Sarcasm Detection with Fastai
 Using Language Model Transfer Learning to Detect Sarcasm in New Headline
 
-Framework: Fastai
-Dataset: https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
+### Dataset: 
+https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
